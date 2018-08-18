@@ -5,7 +5,7 @@
 
 **Today's Progress**: I have fully understand how ruby hash are and its syntax.
 
-**Thoughts:** I really struggled abit on adding values to my hash and also the keys from users's input
+**Thoughts:** I really struggled abit on adding values to my hash and also the keys from users's input but there is still a small error ill fix tommorow because was tired
 
 **Link to work:** [Novel ratting App]##(http://www.example.c)
 ### Day 0: February 30, 2016 (Example 2)
