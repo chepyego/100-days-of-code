@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [July 18, SARTURDAY, 2018].
 I continued from where i had  left in ruby ,deal with hashes i created a hash of books ratting  and prompt user to add their books of choice into the hash it then add the books to hash
 
 ### R1D2
+Today i made a crud application in ruby  i was able to add item and update 
