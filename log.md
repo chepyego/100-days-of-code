@@ -21,3 +21,14 @@ Day 2: Sunday 18, 2018
 **Link to work:** [Novel ratting App]##(http://www.example.c)
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
+
+Day 3: Monday 18, 2018 
+
+
+**Today's Progress**: I was able to complete my crud application in ruby and also read about functions
+
+**Thoughts:**I feel i have achieved something after completing crud application 
+
+**Link to work:** [Novel ratting App]##(http://www.example.c)
+### Day 0: February 30, 2016 (Example 2)
+##### (delete me or comment me out)
