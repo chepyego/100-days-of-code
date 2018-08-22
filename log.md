@@ -9,7 +9,7 @@
 
 **Link to work:** [Novel ratting App]##(http://www.example.c)
 
-Day 2: Sunday 18, 2018 
+Day 2: Sunday 19, 2018 
 
 
 **Today's Progress**: I was able to add and update items on my hash that i created yesterday in ruby 
@@ -19,7 +19,7 @@ Day 2: Sunday 18, 2018
 **Link to work:** [Novel ratting App]##(http://www.example.c)
 
 
-Day 3: Monday 18, 2018 
+Day 3: Monday 20, 2018 
 
 
 **Today's Progress**: I was able to complete my crud application in ruby and also read about functions
@@ -29,10 +29,16 @@ Day 3: Monday 18, 2018
 **Link to work:** [Novel ratting App]##(http://www.example.c)
 
 
-Day 4: Tuesday 18, 2018 
+Day 4: Tuesday 21, 2018 
 
 
 **Today's Progress**: I was able to understand how accesor methods and initializer methods works
 
 **Thoughts:**I have covered just so little on objects and classes i need to do more and understand 
 
+Day 5: Wednesday 22, 2018 
+
+
+**Today's Progress**: I was able to reach 73% course in code academy
+
+**Thoughts:**I have thought i could manage to finish the entire course

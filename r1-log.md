@@ -15,3 +15,6 @@ I managed to finish my crud application ,it can now delete ,add,update, and list
 
 ### R1D4
 I covered objects and classes in ruby ,i looked at  variables in ruby i.e instance variable,class variable ,the initialize method,the accessor method
+
+### R1D5
+I did codecademy online free course upto 73%
