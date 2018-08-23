@@ -18,3 +18,7 @@ I covered objects and classes in ruby ,i looked at  variables in ruby i.e instan
 
 ### R1D5
 I did codecademy online free course upto 73%
+
+
+### R1D6
+I did some basics of vue js and was able to display hello world

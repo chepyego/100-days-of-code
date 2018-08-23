@@ -41,4 +41,11 @@ Day 5: Wednesday 22, 2018
 
 **Today's Progress**: I was able to reach 73% course in code academy
 
-**Thoughts:**I have thought i could manage to finish the entire course
+**Thoughts:**I thought i could manage to finish the entire course
+
+Day 6: Thursday 23 2018 
+
+
+**Today's Progress**: I was to to understand how vuejs works tho not that munch atleast was able to display hello world
+
+**Thoughts:**I  hope would be able to understand vuejs by end of this week
