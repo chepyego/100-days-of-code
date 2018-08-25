@@ -48,4 +48,4 @@ Day 6: Thursday 23 2018
 
 **Today's Progress**: I was to to understand how vuejs works tho not that munch atleast was able to display hello world
 
-**Thoughts:**I  hope would be able to understand vuejs by end of this week
+**Thoughts:**I  hope would be able to understand vuejs by end of this week mmmmmmmh
