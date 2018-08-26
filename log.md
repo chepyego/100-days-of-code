@@ -48,4 +48,18 @@ Day 6: Thursday 23 2018
 
 **Today's Progress**: I was to to understand how vuejs works tho not that munch atleast was able to display hello world
 
-**Thoughts:**I  hope would be able to understand vuejs by end of this week mmmmmmmh
+**Thoughts:**I  hope would be able to understand vuejs by end of this week 
+
+Day 7: friday 24 2018 
+
+
+**Today's Progress**: I did something on lambdas and procs
+
+**Thoughts:**I still have a problem on lambda and procs
+
+Day 8: Sunday 26 2018 
+
+
+**Today's Progress**: I was to complete object oriented 1 in ruby
+
+**Thoughts:**I feel i have achieved something,now i have understood what are baseclass inheriance overidding,

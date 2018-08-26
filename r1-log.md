@@ -22,3 +22,8 @@ I did codecademy online free course upto 73%
 
 ### R1D6
 I did some basics of vue js and was able to display hello world
+
+### R1D7
+Did something on procs and lamdas in ruby
+### R1D8
+completed object oriented programming 1, 
