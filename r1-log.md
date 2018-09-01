@@ -27,3 +27,18 @@ I did some basics of vue js and was able to display hello world
 Did something on procs and lamdas in ruby
 ### R1D8
 completed object oriented programming 1, 
+
+### R1D9
+completed ruby course in codecademy,
+
+### R1D10
+Did flexbox tutorial with examples
+##RID11
+Created webscrapper
+##R1D12
+Watched a Ruby 4 hours tutorial halfway
+###R1D13
+Completed a 4 hours Ruby full tutorial
+
+###R1D14
+created a program that allows users to select multiple answers based on multiple choice

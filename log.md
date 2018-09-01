@@ -63,3 +63,44 @@ Day 8: Sunday 26 2018
 **Today's Progress**: I was to complete object oriented 1 in ruby
 
 **Thoughts:**I feel i have achieved something,now i have understood what are baseclass inheriance overidding,
+
+Day 9: Monady 27 2018 
+
+
+**Today's Progress**: I was able to complete ruby course on course academy with a small banking project based on private and public methods
+
+**Thoughts:**I love what am doing now i understand ruby atleast better than how i used to be
+
+Day 10: Tuesday 28 2018 
+
+
+**Today's Progress**: I Have now understand how flex works and ow to use it
+
+**Thoughts:**Flex box has made thing easier 
+
+Day 11: Wednesday 29 2018 
+
+
+**Today's Progress**: Created a webscapper in ruby using Ruby gem "Nokogiri, HTTparty"
+
+**Thoughts:** I dint understand that much because i was coding along but atleast i get and idea on how to get started
+
+Day 12: THursday 30 
+
+**Today's Progress**: I  watched a four hours tutorial in ruby halfway
+
+**Thoughts:**The tutorial made me understand more of what i learned in codecademy
+
+Day 13: Friday 31 2018 
+
+
+**Today's Progress**: Finished  my four hours tutorial in Ruby
+
+**Thoughts:**I feel i can do some projects in Ruby and with more exercise 
+
+Day 14: Saturday 1 2018 
+
+
+**Today's Progress**: I reated aprogram that allow users to select choices based on multiple choices provided to them
+
+**Thoughts:** I just need a little exercises in Ruby then i start connection to database
